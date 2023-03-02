@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myReactTemp/static/css/main.c2cab247.css",
-    "main.js": "/myReactTemp/static/js/main.62edddcc.js",
+    "main.js": "/myReactTemp/static/js/main.2d367e76.js",
     "index.html": "/myReactTemp/index.html",
     "main.c2cab247.css.map": "/myReactTemp/static/css/main.c2cab247.css.map",
-    "main.62edddcc.js.map": "/myReactTemp/static/js/main.62edddcc.js.map"
+    "main.2d367e76.js.map": "/myReactTemp/static/js/main.2d367e76.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.62edddcc.js"
+    "static/js/main.2d367e76.js"
   ]
 }
